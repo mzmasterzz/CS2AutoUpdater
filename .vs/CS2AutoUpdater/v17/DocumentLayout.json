@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christo\\Desktop\\cs2\\CS2AutoUpdater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F01C6-326B-4AE6-99FD-68C28CE8B8A0}|CS2AutoUpdater.csproj|c:\\users\\christo\\desktop\\cs2\\cs2autoupdater\\cs2autoupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F01C6-326B-4AE6-99FD-68C28CE8B8A0}|CS2AutoUpdater.csproj|solutionrelative:cs2autoupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F01C6-326B-4AE6-99FD-68C28CE8B8A0}|CS2AutoUpdater.csproj|c:\\users\\christo\\desktop\\cs2\\cs2autoupdater\\cs2autoupdater.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B6F01C6-326B-4AE6-99FD-68C28CE8B8A0}|CS2AutoUpdater.csproj|solutionrelative:cs2autoupdater.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS2AutoUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\Christo\\Desktop\\cs2\\CS2AutoUpdater\\CS2AutoUpdater.cs",
+              "RelativeDocumentMoniker": "CS2AutoUpdater.cs",
+              "ToolTip": "C:\\Users\\Christo\\Desktop\\cs2\\CS2AutoUpdater\\CS2AutoUpdater.cs",
+              "RelativeToolTip": "CS2AutoUpdater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:15:12.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CS2AutoUpdater.csproj",
+              "DocumentMoniker": "C:\\Users\\Christo\\Desktop\\cs2\\CS2AutoUpdater\\CS2AutoUpdater.csproj",
+              "RelativeDocumentMoniker": "CS2AutoUpdater.csproj",
+              "ToolTip": "C:\\Users\\Christo\\Desktop\\cs2\\CS2AutoUpdater\\CS2AutoUpdater.csproj",
+              "RelativeToolTip": "CS2AutoUpdater.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T03:23:30.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
